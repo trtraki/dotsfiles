@@ -6,5 +6,7 @@
     editor = vim
 
 [alias]
+    cm = commit
+    co = checkout
     st = status
     lg = log --graph --date=short --pretty=format:'%Cgreen%h %cd %Cblue%cn %Creset%s'
