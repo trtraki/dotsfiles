@@ -1,0 +1,10 @@
+[user]
+    name = trtraki
+    email = akio55252000@yahoo.co.jp
+
+[core]
+    editor = vim
+
+[alias]
+    st = status
+    lg = log --graph --date=short --pretty=format:'%Cgreen%h %cd %Cblue%cn %Creset%s'
